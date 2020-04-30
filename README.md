@@ -18,7 +18,7 @@ Esse teste prático visa avaliar os conhecimentos do candidato a vaga de program
   - O propósito deste teste é apenas avaliar o conhecimento em programaçao do candidato.
 
 # Vamos lá! A aplicação é...
-Criem uma aplicação para efetuar uma busca por clientes listando no resultado os dados dos clientes e pelo menos a categoria do mesmo.  
+Crie uma aplicação para efetuar uma busca por clientes listando no resultado os dados dos clientes e pelo menos a categoria do mesmo.  
 Isso mesmo, é realmente simples assim.
 	
 Não necessita desenvolver os CRUDs. 
