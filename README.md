@@ -34,13 +34,12 @@ Não necessita desenvolver os CRUDs.
 
 ### Para participar basta...
 - Construir a aplicação solicitada;
-- Enviar o link do projeto no github ou bitbucket para o e-mail: autogestor.net@gmail.com;
+- Enviar o link do projeto no github ou bitbucket para o e-mail: flavia@autogestor.net;
 - Juntamente com o link acima mencionado nos envie também o seu curriculum atualizado;
 - Informar pretenção salarial;
 - Informe também sua disponibilidade para ínicio das atividades caso venha a fazer parte de nossa equipe.
 
 # Caso precise falar conosco
-- Email: autogestor.net@gmail.com
-- Fone: [41] 3524-8689 
+- Email: flavia@autogestor.net 
 
 Fique a vontade para entrar em contato conosco se você tenha alguma dúvida ou assim que terminar a aplicação.
