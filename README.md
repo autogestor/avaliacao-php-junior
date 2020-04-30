@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.dnadevendas.com.br/wp-content/uploads/auto-gestor.png"></p>
+<p align="center"><img src="http://autogestor.net/uploads/1568398574.svg"></p>
 
 
 # Teste prático - PHP Junior
