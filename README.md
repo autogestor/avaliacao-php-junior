@@ -34,7 +34,7 @@ Não necessita desenvolver os CRUDs.
 
 ### Para participar basta...
 - Construir a aplicação solicitada;
-- Enviar o link do projeto no github ou bitbucket para o e-mail: flavia@autogestor.net;
+- Enviar o link do projeto no github ou bitbucket para o e-mail: flavia@peopletree.com.br;
 - Juntamente com o link acima mencionado nos envie também o seu curriculum atualizado;
 - Informar pretenção salarial;
 - Informe também sua disponibilidade para ínicio das atividades caso venha a fazer parte de nossa equipe.
